@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a7b0785a.css",
+    "main.js": "./static/js/main.4e062d9a.js",
+    "static/media/lalezar-arabic-400-normal.woff2": "./static/media/lalezar-arabic-400-normal.93baf65d850520f10e25.woff2",
+    "static/media/lalezar-arabic-400-normal.woff": "./static/media/lalezar-arabic-400-normal.04d035ea740b83f8cdf0.woff",
+    "static/media/montserrat-latin-wght-normal.woff2": "./static/media/montserrat-latin-wght-normal.5028c63f6a70ab0cf7cb.woff2",
+    "static/media/montserrat-latin-ext-wght-normal.woff2": "./static/media/montserrat-latin-ext-wght-normal.82d636d9375dd92118fd.woff2",
+    "static/media/montserrat-cyrillic-ext-wght-normal.woff2": "./static/media/montserrat-cyrillic-ext-wght-normal.e84e812b71d18e04e692.woff2",
+    "static/media/montserrat-cyrillic-wght-normal.woff2": "./static/media/montserrat-cyrillic-wght-normal.eb1783eb424871325396.woff2",
+    "static/media/lalezar-latin-400-normal.woff2": "./static/media/lalezar-latin-400-normal.aadfd3de4714aebdd923.woff2",
+    "static/media/lalezar-latin-400-normal.woff": "./static/media/lalezar-latin-400-normal.1cebdc11d802159f95e1.woff",
+    "static/media/lalezar-latin-ext-400-normal.woff2": "./static/media/lalezar-latin-ext-400-normal.c3ef03e517ff1ff5d0ae.woff2",
+    "static/media/lalezar-latin-ext-400-normal.woff": "./static/media/lalezar-latin-ext-400-normal.738179ca0dba630c1c5e.woff",
+    "static/media/montserrat-vietnamese-wght-normal.woff2": "./static/media/montserrat-vietnamese-wght-normal.07ecd2bf394620316a60.woff2",
+    "static/media/lalezar-vietnamese-400-normal.woff2": "./static/media/lalezar-vietnamese-400-normal.2745318d026e043a4285.woff2",
+    "static/media/lalezar-vietnamese-400-normal.woff": "./static/media/lalezar-vietnamese-400-normal.8e7de4ffd9f725b40ab0.woff",
+    "index.html": "./index.html",
+    "main.a7b0785a.css.map": "./static/css/main.a7b0785a.css.map",
+    "main.4e062d9a.js.map": "./static/js/main.4e062d9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7b0785a.css",
+    "static/js/main.4e062d9a.js"
+  ]
+}
